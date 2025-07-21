@@ -6,7 +6,7 @@ This repository contains a Named Entity Recognition (NER) model implementation f
 
 ## Dataset
 
-- **Source**: WikiAnn (Hindi)
+- **Source**: [WikiAnn (Hindi)](https://huggingface.co/datasets/unimelb-nlp/wikiann)
 - **Description**: WikiANN (sometimes called PAN-X) is a multilingual named entity recognition dataset consisting of Wikipedia articles annotated with LOC (location), PER (person), and ORG (organisation).
 - **Format**: Each sample contains a list of `tokens` and their associated `ner_tags`, following the IOB2 labeling format.
 
